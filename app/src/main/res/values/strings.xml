@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NhacCuaTui</string>
+    <string name="btn_play">Btn_Play</string>
+    <string name="btn_discovery">Btn_Discovery</string>
+    <string name="btn_album">Btn_Album</string>
+    <string name="btn_user">Btn_User</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
